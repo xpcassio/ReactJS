@@ -1,0 +1,14 @@
+cd /Applications/MAMP/htdocs/react-task
+- Abre a pasta do projeto
+
+npm start
+- Executa o servidor de desenvolvimento
+
+npx serve -s build
+- Executa o servidor de produção
+
+npm run server
+- Servidor json server
+
+http://127.0.0.1:3000/
+- Server
