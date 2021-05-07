@@ -17,7 +17,8 @@ npx create-react-app [nome do app]
 Plugins
 =======
 
-Links
+Links react
 =====
 
 [ReactJS](https://pt-br.reactjs.org/)
+[Gitignore](https://www.toptal.com/developers/gitignore)
