@@ -1,0 +1,9 @@
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+https://stackoverflow.com/questions/1687262/link-to-the-issue-number-on-github-within-a-commit-message
+https://stackoverflow.com/questions/5064563/add-line-break-to-git-commit-m-from-the-command-line
+https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue
+https://github.blog/2011-04-09-issues-2-0-the-next-generation/
+https://gist.github.com/crissilvaeng/dfb5b14f8eb2c25df4fd8a49f4f03252
+
+
+https://iamsteve.me/blog/entry/horizontal-scrolling-responsive-menu

@@ -1,0 +1,7 @@
+http://getbem.com/introduction/
+
+- [ ] Fazer o projeto em reactJS de qualquer jeito, apenas finalizar.
+- [ ] Aplicar boas praticas do BOM.
+- [ ] Aplicar boas praticas do react.
+- [ ] Aplicar boas praticas do sass.
+- [ ] Aplicar boas praticas do git.

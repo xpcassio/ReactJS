@@ -1,0 +1,8 @@
+https://create-react-app.dev/docs/adding-a-sass-stylesheet/
+
+npm install node-sass --save
+- instala o compilador sass. Precisa reiniciar o servidor.
+
+https://react-icons.github.io/react-icons/icons?name=fa
+npm install react-icons --save
+-

@@ -1,0 +1,32 @@
+headline {
+	background-color: transparent;
+	height: 200px;
+
+	white-space: nowrap;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+}
+
+.headline-item {
+	display: inline-block;
+	// border: 1px solid #C1C1C1;
+	border-radius: 10px;
+	height: 100%;
+	width: 100%;
+	color: #FFFFFF;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	// background-position: no-repeat;
+	// background-size: center;
+	// background-repeat: center;
+}
+
+@include media-breakpoint-up(md) {
+	headline {
+		white-space: unset;
+		overflow-x: unset;
+	}
+}
