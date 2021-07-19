@@ -1,0 +1,16 @@
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+- Base CSS
+* Não esquecer que tem uma configuração especifica
+
+npm install @craco/craco
+- Necessário para rodar o tailwind
+* Não esquecer que tem uma configuração especifica
+
+npm install react-icons --save
+-
+
+npm install --save react-router-dom
+-
+
+npm install --save json-server
+-

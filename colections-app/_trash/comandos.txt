@@ -1,0 +1,8 @@
+cd Programming/ReactJS/colections-app
+- 
+
+npm run server
+- JSON server
+
+npm run start
+- HTTP server
